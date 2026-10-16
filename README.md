@@ -1,4 +1,3 @@
-# Haripriya-E---111923CB01016
 # 🔢 Fibonacci Series in C
 
 ## 📌 Project Description
